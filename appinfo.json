@@ -1,0 +1,10 @@
+{
+  "id": "com.strangeloop.piidx",
+  "version": "1.0.0",
+  "vendor": "STRANGE LOOP",
+  "type": "web",
+  "main": "index.html",
+  "title": "Personal Internet Indexer.",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
